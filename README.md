@@ -1,1 +1,1 @@
-![CI](https://github.com/vl-pod/dom/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/8d6tl95u9452ad85?svg=true)](https://ci.appveyor.com/project/Vl-pod/dom)
